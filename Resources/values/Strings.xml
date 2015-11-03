@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">DroidDb</string>
+	<string name="EnterScore">Enter Score</string>
+	<string name="Rating">Course Rating</string>
+  	<string name="Slope">Course Slope</string>
+  	<string name="EnterData">Enter Data</string>
+</resources>
